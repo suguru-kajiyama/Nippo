@@ -1,0 +1,4 @@
+Nippo app
+author: 梶山卓
+description:日報アプリ:wq
+
